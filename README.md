@@ -4,6 +4,8 @@ This project was created as part of a YouTube project and illustrates the functi
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7FBELQq808M/0.jpg)](https://www.youtube.com/watch?v=7FBELQq808M)
 
+![alt text](https://github.com/syntacops/flutter_formbuilder_example/blob/master/Flutter%20FormBuilder%20Image.png)
+
 Resources:
 
 ☕ Buy Mr. Miller a Coffee (https://www.buymeacoffee.com/wb5M9y2Sz)
