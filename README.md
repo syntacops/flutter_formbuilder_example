@@ -1,16 +1,19 @@
-# flutter_formbuilder_example
+# Flutter Forms Easy Made with Flutter FormBuilder
 
-A new Flutter project.
+This project was created as part of a YouTube project and illustrates the functionality of the Flutter Package "Flutter FormBuilder".
 
-## Getting Started
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7FBELQq808M/0.jpg)](https://www.youtube.com/watch?v=7FBELQq808M)
 
-This project is a starting point for a Flutter application.
+Resources:
+☕ Buy Mr. Miller a Coffee (https://www.buymeacoffee.com/wb5M9y2Sz)
+👍 Like the PUB.DEV site (https://pub.dev/packages/flutter_form_builder)
+⭐ Star the Github repo (https://github.com/danvick/flutter_form_builder)
 
-A few resources to get you started if this is your first Flutter project:
+Further information:
+📗 Chips Input (https://pub.dev/packages/flutter_chips_input/example)
+📗 Type Ahead (https://pub.dev/packages/flutter_typeahead)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Social Media:
+▶ Facebook: https://www.facebook.com/syntac.ops.7
+▶ Twitter: https://twitter.com/syntacops
+▶ Reddit: https://www.reddit.com/user/syntacops
