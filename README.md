@@ -3,6 +3,7 @@
 This project was created as part of a YouTube project and illustrates the functionality of the Flutter Package "Flutter FormBuilder".
 
 [![IMAGE ALT TEXT HERE](https://imgur.com/AWzRq5Hl.png)](https://www.youtube.com/watch?v=7FBELQq808M)
+
 Click here to watch the video tutorial
 
 ![alt text](https://github.com/syntacops/flutter_formbuilder_example/blob/master/Flutter%20FormBuilder%20Image.png)
